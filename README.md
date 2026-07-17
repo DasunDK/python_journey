@@ -1,8 +1,12 @@
 # 🐍 Python Journey
 
-## Progress
+> **Goal:** Become an exceptional Python developer by solving **200 coding challenges**—one challenge at a time.
 
-### 🥉 Bronze (PY-001 → PY-025)
+---
+
+# 📈 Progress
+
+## 🥉 Bronze (PY-001 → PY-025)
 
 **Goal:** Learn Python fundamentals and basic problem-solving.
 
@@ -14,7 +18,7 @@
 
 ---
 
-### 🥈 Silver (PY-026 → PY-075)
+## 🥈 Silver (PY-026 → PY-075)
 
 **Goal:** Strengthen logic and intermediate programming skills.
 
@@ -26,9 +30,9 @@
 
 ---
 
-### 🥇 Gold (PY-076 → PY-150)
+## 🥇 Gold (PY-076 → PY-150)
 
-**Goal:** Master data structures and algorithms.
+**Goal:** Master data structures, algorithms, and efficient coding techniques.
 
 - [ ] PY-076
 - [ ] PY-077
@@ -38,7 +42,7 @@
 
 ---
 
-### 💎 Diamond (PY-151 → PY-200)
+## 💎 Diamond (PY-151 → PY-200)
 
 **Goal:** Solve advanced software engineering and interview-level challenges.
 
@@ -50,23 +54,53 @@
 
 ---
 
-## Current Status
+# 📊 Current Status
 
-- **Current Challenge:** PY-001
-- **Current Level:** 🥉 Bronze
-- **Completed:** 0 / 200
-- **Current Streak:** 0 days
+| Item                 | Status      |
+| -------------------- | ----------- |
+| 🎯 Current Challenge | **PY-001**  |
+| 🏅 Current Level     | 🥉 Bronze   |
+| ✅ Completed         | **0 / 200** |
+| 🔥 Current Streak    | **0 Days**  |
 
-## Strengths
+---
+
+# 💪 Strengths
 
 - None yet
 
-## Areas to Improve
+---
+
+# 📚 Areas to Improve
 
 - None yet
 
-## Notes
+---
 
-- Keep solving one challenge every day.
-- Think first, then code.
+# 📝 Rules
+
+- Solve **one challenge every day**.
+- Read the problem carefully.
+- Think before writing code.
+- Test your solution.
+- Refactor if necessary.
 - Don't use AI hints unless you've genuinely tried.
+
+---
+
+# 🎯 Mission
+
+By completing all **200 challenges**, I aim to:
+
+- Build strong Python fundamentals.
+- Develop excellent problem-solving skills.
+- Master algorithms and data structures.
+- Write clean and maintainable code.
+- Prepare for software engineering interviews.
+- Become a world-class software engineer.
+
+---
+
+**Start Date:** July 17, 2026
+
+**Current Goal:** Finish 🥉 Bronze (PY-001 → PY-025)
