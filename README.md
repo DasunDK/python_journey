@@ -11,7 +11,7 @@
 **Goal:** Learn Python fundamentals and basic problem-solving.
 
 - [x] PY-001
-- [ ] PY-002
+- [x] PY-002
 - [ ] PY-003
 - ...
 - [ ] PY-025
@@ -58,10 +58,10 @@
 
 | Item                 | Status      |
 | -------------------- | ----------- |
-| 🎯 Current Challenge | **PY-002**  |
+| 🎯 Current Challenge | **PY-003**  |
 | 🏅 Current Level     | 🥉 Bronze   |
-| ✅ Completed         | **1 / 200** |
-| 🔥 Current Streak    | **1 Days**  |
+| ✅ Completed         | **2 / 200** |
+| 🔥 Current Streak    | **2 Days**  |
 
 ---
 
@@ -72,6 +72,10 @@
 - `range()`
 - Writing reusable functions
 - Returning values from functions
+- String iteration
+- Membership operator (`in`)
+- Using `.lower()` effectively
+- Counting with variables
 
 ---
 
@@ -79,6 +83,10 @@
 
 - Trace loop execution mentally
 - Edge case handling
+- String iteration
+- Membership operator (`in`)
+- Using `.lower()` effectively
+- Counting with variables
 
 ---
 
