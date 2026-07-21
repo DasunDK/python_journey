@@ -10,7 +10,7 @@
 
 **Goal:** Learn Python fundamentals and basic problem-solving.
 
-- [ ] PY-001
+- [x] PY-001
 - [ ] PY-002
 - [ ] PY-003
 - ...
@@ -58,22 +58,27 @@
 
 | Item                 | Status      |
 | -------------------- | ----------- |
-| 🎯 Current Challenge | **PY-001**  |
+| 🎯 Current Challenge | **PY-002**  |
 | 🏅 Current Level     | 🥉 Bronze   |
-| ✅ Completed         | **0 / 200** |
-| 🔥 Current Streak    | **0 Days**  |
+| ✅ Completed         | **1 / 200** |
+| 🔥 Current Streak    | **1 Days**  |
 
 ---
 
-# 💪 Strengths
+## 💪 Strengths
 
-- None yet
+- String indexing
+- `for` loops
+- `range()`
+- Writing reusable functions
+- Returning values from functions
 
 ---
 
-# 📚 Areas to Improve
+## 📚 Areas to Improve
 
-- None yet
+- Trace loop execution mentally
+- Edge case handling
 
 ---
 
