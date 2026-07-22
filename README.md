@@ -13,6 +13,7 @@
 - [x] PY-001
 - [x] PY-002
 - [x] PY-003
+- [x] PY-004
 - ...
 - [ ] PY-025
 
@@ -58,10 +59,10 @@
 
 | Item                 | Status      |
 | -------------------- | ----------- |
-| 🎯 Current Challenge | **PY-004**  |
+| 🎯 Current Challenge | **PY-005**  |
 | 🏅 Current Level     | 🥉 Bronze   |
-| ✅ Completed         | **3 / 200** |
-| 🔥 Current Streak    | **3 Days**  |
+| ✅ Completed         | **4 / 200** |
+| 🔥 Current Streak    | **4 Days**  |
 
 ---
 
@@ -80,6 +81,10 @@
 - Function decomposition
 - Case-insensitive comparisons
 - Building reusable functions
+- List traversal
+- Comparison algorithms
+- Accumulator pattern
+- Finding maximum values
 
 ---
 
@@ -94,6 +99,9 @@
 - Returning booleans for decision functions
 - Removing debug code before committing
 - Thinking about function responsibilitie
+- Handling empty collections
+- Input validation
+- Thinking about edge cases
 
 ---
 
