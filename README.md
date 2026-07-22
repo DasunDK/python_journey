@@ -12,7 +12,7 @@
 
 - [x] PY-001
 - [x] PY-002
-- [ ] PY-003
+- [x] PY-003
 - ...
 - [ ] PY-025
 
@@ -58,10 +58,10 @@
 
 | Item                 | Status      |
 | -------------------- | ----------- |
-| 🎯 Current Challenge | **PY-003**  |
+| 🎯 Current Challenge | **PY-004**  |
 | 🏅 Current Level     | 🥉 Bronze   |
-| ✅ Completed         | **2 / 200** |
-| 🔥 Current Streak    | **2 Days**  |
+| ✅ Completed         | **3 / 200** |
+| 🔥 Current Streak    | **3 Days**  |
 
 ---
 
@@ -76,6 +76,10 @@
 - Membership operator (`in`)
 - Using `.lower()` effectively
 - Counting with variables
+- Code reuse (DRY principle)
+- Function decomposition
+- Case-insensitive comparisons
+- Building reusable functions
 
 ---
 
@@ -87,6 +91,9 @@
 - Membership operator (`in`)
 - Using `.lower()` effectively
 - Counting with variables
+- Returning booleans for decision functions
+- Removing debug code before committing
+- Thinking about function responsibilitie
 
 ---
 
