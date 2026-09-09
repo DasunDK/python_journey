@@ -14,6 +14,10 @@
 - [x] PY-002
 - [x] PY-003
 - [x] PY-004
+- [x] PY-005
+- [x] PY-006
+- [x] PY-007
+- [ ] PY-008
 - ...
 - [ ] PY-025
 
@@ -59,10 +63,10 @@
 
 | Item                 | Status      |
 | -------------------- | ----------- |
-| 🎯 Current Challenge | **PY-005**  |
+| 🎯 Current Challenge | **PY-008**  |
 | 🏅 Current Level     | 🥉 Bronze   |
-| ✅ Completed         | **4 / 200** |
-| 🔥 Current Streak    | **4 Days**  |
+| ✅ Completed         | **7 / 200** |
+| 🔥 Current Streak    | **7 Days**  |
 
 ---
 
@@ -85,6 +89,8 @@
 - Comparison algorithms
 - Accumulator pattern
 - Finding maximum values
+- Finding minimum values
+- Working with list indexes
 
 ---
 
@@ -98,10 +104,11 @@
 - Counting with variables
 - Returning booleans for decision functions
 - Removing debug code before committing
-- Thinking about function responsibilitie
+- Thinking about function responsibilities
 - Handling empty collections
 - Input validation
 - Thinking about edge cases
+- Knowing when to stop a loop early
 
 ---
 
