@@ -18,7 +18,10 @@
 - [x] PY-006
 - [x] PY-007
 - [x] PY-008
-- [ ] PY-009
+- [x] PY-009
+- [ ] PY-010
+- [ ] PY-011
+- [ ] PY-012
 - ...
 - [ ] PY-025
 
@@ -64,10 +67,10 @@
 
 | Item                 | Status      |
 | -------------------- | ----------- |
-| 🎯 Current Challenge | **PY-009**  |
+| 🎯 Current Challenge | **PY-010**  |
 | 🏅 Current Level     | 🥉 Bronze   |
-| ✅ Completed         | **8 / 200** |
-| 🔥 Current Streak    | **8 Days**  |
+| ✅ Completed         | **9 / 200** |
+| 🔥 Current Streak    | **9 Days**  |
 
 ---
 
@@ -85,7 +88,6 @@
 - Code reuse (DRY principle)
 - Function decomposition
 - Case-insensitive comparisons
-- Building reusable functions
 - List traversal
 - List indexes
 - Comparison algorithms
@@ -95,6 +97,8 @@
 - Counting occurrences
 - Finding the first matching item
 - Calculating totals
+- Calculating averages
+- Combining counting and accumulation
 
 ---
 
@@ -114,6 +118,7 @@
 - Thinking about edge cases
 - Knowing when to stop a loop early
 - Choosing clear variable names
+- Avoiding shadowing Python built-in names
 - Building algorithms without relying on built-in functions
 
 ---
