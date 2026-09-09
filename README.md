@@ -17,7 +17,8 @@
 - [x] PY-005
 - [x] PY-006
 - [x] PY-007
-- [ ] PY-008
+- [x] PY-008
+- [ ] PY-009
 - ...
 - [ ] PY-025
 
@@ -63,10 +64,10 @@
 
 | Item                 | Status      |
 | -------------------- | ----------- |
-| 🎯 Current Challenge | **PY-008**  |
+| 🎯 Current Challenge | **PY-009**  |
 | 🏅 Current Level     | 🥉 Bronze   |
-| ✅ Completed         | **7 / 200** |
-| 🔥 Current Streak    | **7 Days**  |
+| ✅ Completed         | **8 / 200** |
+| 🔥 Current Streak    | **8 Days**  |
 
 ---
 
@@ -86,11 +87,14 @@
 - Case-insensitive comparisons
 - Building reusable functions
 - List traversal
+- List indexes
 - Comparison algorithms
 - Accumulator pattern
 - Finding maximum values
 - Finding minimum values
-- Working with list indexes
+- Counting occurrences
+- Finding the first matching item
+- Calculating totals
 
 ---
 
@@ -109,6 +113,8 @@
 - Input validation
 - Thinking about edge cases
 - Knowing when to stop a loop early
+- Choosing clear variable names
+- Building algorithms without relying on built-in functions
 
 ---
 
