@@ -19,7 +19,7 @@
 - [x] PY-007
 - [x] PY-008
 - [x] PY-009
-- [ ] PY-010
+- [x] PY-010
 - [ ] PY-011
 - [ ] PY-012
 - ...
@@ -65,12 +65,12 @@
 
 # 📊 Current Status
 
-| Item                 | Status      |
-| -------------------- | ----------- |
-| 🎯 Current Challenge | **PY-010**  |
-| 🏅 Current Level     | 🥉 Bronze   |
-| ✅ Completed         | **9 / 200** |
-| 🔥 Current Streak    | **9 Days**  |
+| Item                 | Status       |
+| -------------------- | ------------ |
+| 🎯 Current Challenge | **PY-011**   |
+| 🏅 Current Level     | 🥉 Bronze    |
+| ✅ Completed         | **10 / 200** |
+| 🔥 Current Streak    | **10 Days**  |
 
 ---
 
@@ -99,6 +99,12 @@
 - Calculating totals
 - Calculating averages
 - Combining counting and accumulation
+- Tracking multiple values during iteration
+- Finding the second largest value
+- Handling duplicate values
+- Handling negative numbers
+- Using `float("-inf")`
+- Managing algorithm state
 
 ---
 
@@ -120,6 +126,8 @@
 - Choosing clear variable names
 - Avoiding shadowing Python built-in names
 - Building algorithms without relying on built-in functions
+- Writing simpler conditional structures
+- Carefully tracing multiple variables through a loop
 
 ---
 
