@@ -20,8 +20,10 @@
 - [x] PY-008
 - [x] PY-009
 - [x] PY-010
-- [ ] PY-011
+- [x] PY-011
 - [ ] PY-012
+- [ ] PY-013
+- [ ] PY-014
 - ...
 - [ ] PY-025
 
@@ -67,10 +69,10 @@
 
 | Item                 | Status       |
 | -------------------- | ------------ |
-| 🎯 Current Challenge | **PY-011**   |
+| 🎯 Current Challenge | **PY-012**   |
 | 🏅 Current Level     | 🥉 Bronze    |
-| ✅ Completed         | **10 / 200** |
-| 🔥 Current Streak    | **10 Days**  |
+| ✅ Completed         | **11 / 200** |
+| 🔥 Current Streak    | **11 Days**  |
 
 ---
 
@@ -105,6 +107,10 @@
 - Handling negative numbers
 - Using `float("-inf")`
 - Managing algorithm state
+- Nested loops
+- Comparing elements by index
+- Using `break`
+- Preventing duplicate counting
 
 ---
 
@@ -128,6 +134,9 @@
 - Building algorithms without relying on built-in functions
 - Writing simpler conditional structures
 - Carefully tracing multiple variables through a loop
+- Improving nested-loop efficiency
+- Understanding time complexity
+- Reducing unnecessary iterations
 
 ---
 
