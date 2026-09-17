@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Journey Goals
+# 🎯 Journey Goals
 
 - Master Python fundamentals
 - Develop strong problem-solving skills
@@ -24,10 +24,10 @@
 
 # 📊 Overall Progress
 
-**Completed:** 12 / 200
+**Completed:** 13 / 200
 **Current Level:** 🥉 Bronze
-**Current Challenge:** **PY-013**
-**Progress:** ████████████░░░░░░░░ 6%
+**Current Challenge:** **PY-014**
+**Progress:** █████████████░░░░░░░ 6.5%
 
 ---
 
@@ -64,18 +64,18 @@ Focus:
 - [x] **PY-010** — Find Second Largest Unique Number
 - [x] **PY-011** — Count Duplicate Numbers
 - [x] **PY-012** — Remove Duplicate Numbers
+- [x] **PY-013** — Find Common Elements Between Two Lists
 
 ---
 
 ## 🚀 Current Challenge
 
-- [ ] **PY-013** — Find Common Elements Between Two Lists
+- [ ] **PY-014** — Find the Missing Number
 
 ---
 
 ## ⏳ Upcoming Bronze Challenges
 
-- [ ] PY-014
 - [ ] PY-015
 - [ ] PY-016
 - [ ] PY-017
@@ -181,15 +181,13 @@ count()
 
 When a challenge prohibits these, solve the problem manually.
 
-The goal isn't just to get the answer.
-
-> **The goal is to understand how the solution works.**
+> **The goal isn't just to get the answer. The goal is to understand how the solution works.**
 
 ---
 
 # 📚 Skills Learned So Far
 
-### Python Fundamentals
+## Python Fundamentals
 
 - Variables
 - Functions
@@ -203,7 +201,7 @@ The goal isn't just to get the answer.
 - `break`
 - `range()`
 
-### Problem-Solving Patterns
+## Problem-Solving Patterns
 
 - Accumulator pattern
 - Searching through lists
@@ -217,20 +215,25 @@ The goal isn't just to get the answer.
 - Membership checking
 - Nested-loop comparison
 - Using state variables
+- Comparing two collections
 
-### Important Concepts
+## Important Concepts
 
-**PY-010**
+### PY-010 — State Management
 
 Learned how to maintain state when finding the second-largest unique number.
 
-**PY-011**
+### PY-011 — Duplicate Detection
 
 Learned how to detect duplicates without counting the same duplicated value multiple times.
 
-**PY-012**
+### PY-012 — Filtering and List Construction
 
 Learned how to build a new list while filtering duplicate values and preserving the original order.
+
+### PY-013 — Comparing Collections
+
+Learned how to compare two lists and identify common elements while preventing duplicate results.
 
 ---
 
@@ -242,8 +245,10 @@ Learned how to build a new list while filtering duplicate values and preserving 
 - Conditional logic
 - List manipulation
 - Manual searching
+- Membership checking
 - Handling edge cases
 - Duplicate detection
+- Comparing lists
 - Building algorithms step-by-step
 - Debugging logical mistakes
 - Thinking about state and conditions
@@ -260,26 +265,28 @@ Learned how to build a new list while filtering duplicate values and preserving 
 - Writing more optimized solutions
 - Breaking complex problems into smaller steps
 - Developing faster algorithmic thinking
+- Understanding different approaches to the same problem
 
 ---
 
 # 📈 Progress Tracker
 
-| Challenge  | Topic                    | Status     |
-| ---------- | ------------------------ | ---------- |
-| PY-001     | Reverse Characters       | ✅         |
-| PY-002     | Count Vowels             | ✅         |
-| PY-003     | Palindrome Checker       | ✅         |
-| PY-004     | Find Largest Number      | ✅         |
-| PY-005     | Count Occurrences        | ✅         |
-| PY-006     | Find Position            | ✅         |
-| PY-007     | Find Smallest Number     | ✅         |
-| PY-008     | Calculate Sum            | ✅         |
-| PY-009     | Calculate Average        | ✅         |
-| PY-010     | Second Largest Unique    | ✅         |
-| PY-011     | Count Duplicate Numbers  | ✅         |
-| PY-012     | Remove Duplicate Numbers | ✅         |
-| **PY-013** | **Common Elements**      | 🚀 Current |
+| Challenge  | Topic                       | Status     |
+| ---------- | --------------------------- | ---------- |
+| PY-001     | Reverse Characters          | ✅         |
+| PY-002     | Count Vowels                | ✅         |
+| PY-003     | Palindrome Checker          | ✅         |
+| PY-004     | Find Largest Number         | ✅         |
+| PY-005     | Count Occurrences           | ✅         |
+| PY-006     | Find Position               | ✅         |
+| PY-007     | Find Smallest Number        | ✅         |
+| PY-008     | Calculate Sum               | ✅         |
+| PY-009     | Calculate Average           | ✅         |
+| PY-010     | Second Largest Unique       | ✅         |
+| PY-011     | Count Duplicate Numbers     | ✅         |
+| PY-012     | Remove Duplicate Numbers    | ✅         |
+| PY-013     | Common Elements             | ✅         |
+| **PY-014** | **Find the Missing Number** | 🚀 Current |
 
 ---
 
@@ -299,7 +306,7 @@ Learned how to build a new list while filtering duplicate values and preserving 
 
 # 🔥 Current Streak
 
-**12 Challenges Completed**
+**13 Challenges Completed**
 
 Keep going one challenge at a time.
 
@@ -321,7 +328,7 @@ After completing all 200 challenges, the goal is to be able to:
 - Write clean and maintainable code
 - Approach unfamiliar programming problems logically
 
-### 🚀 Long-Term Direction
+## 🚀 Long-Term Direction
 
 **Software Engineer building secure, AI-powered applications**
 
@@ -331,7 +338,7 @@ Python Journey is one part of the larger journey toward becoming a strong softwa
 
 ---
 
-## 🐍 Keep Coding
+# 🐍 Keep Coding
 
 **Challenge → Think → Code → Test → Debug → Refactor → Learn**
 
