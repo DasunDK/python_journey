@@ -24,10 +24,10 @@
 
 # 📊 Overall Progress
 
-**Completed:** 13 / 200
+**Completed:** 14 / 200
 **Current Level:** 🥉 Bronze
-**Current Challenge:** **PY-014**
-**Progress:** █████████████░░░░░░░ 6.5%
+**Current Challenge:** **PY-015**
+**Progress:** ██████████████░░░░░░ 7%
 
 ---
 
@@ -65,18 +65,18 @@ Focus:
 - [x] **PY-011** — Count Duplicate Numbers
 - [x] **PY-012** — Remove Duplicate Numbers
 - [x] **PY-013** — Find Common Elements Between Two Lists
+- [x] **PY-014** — Find the Missing Number
 
 ---
 
 ## 🚀 Current Challenge
 
-- [ ] **PY-014** — Find the Missing Number
+- [ ] **PY-015** — Find the Most Frequent Number
 
 ---
 
 ## ⏳ Upcoming Bronze Challenges
 
-- [ ] PY-015
 - [ ] PY-016
 - [ ] PY-017
 - [ ] PY-018
@@ -200,6 +200,7 @@ When a challenge prohibits these, solve the problem manually.
 - `append()`
 - `break`
 - `range()`
+- `len()`
 
 ## Problem-Solving Patterns
 
@@ -216,6 +217,7 @@ When a challenge prohibits these, solve the problem manually.
 - Nested-loop comparison
 - Using state variables
 - Comparing two collections
+- Expected vs. actual values
 
 ## Important Concepts
 
@@ -235,6 +237,10 @@ Learned how to build a new list while filtering duplicate values and preserving 
 
 Learned how to compare two lists and identify common elements while preventing duplicate results.
 
+### PY-014 — Expected vs. Actual Values
+
+Learned how to calculate an expected total manually, compare it with the actual total, and use the difference to find a missing value.
+
 ---
 
 # 💪 Current Strengths
@@ -252,6 +258,7 @@ Learned how to compare two lists and identify common elements while preventing d
 - Building algorithms step-by-step
 - Debugging logical mistakes
 - Thinking about state and conditions
+- Working with expected and actual values
 
 ---
 
@@ -265,28 +272,29 @@ Learned how to compare two lists and identify common elements while preventing d
 - Writing more optimized solutions
 - Breaking complex problems into smaller steps
 - Developing faster algorithmic thinking
-- Understanding different approaches to the same problem
+- Understanding multiple approaches to the same problem
 
 ---
 
 # 📈 Progress Tracker
 
-| Challenge  | Topic                       | Status     |
-| ---------- | --------------------------- | ---------- |
-| PY-001     | Reverse Characters          | ✅         |
-| PY-002     | Count Vowels                | ✅         |
-| PY-003     | Palindrome Checker          | ✅         |
-| PY-004     | Find Largest Number         | ✅         |
-| PY-005     | Count Occurrences           | ✅         |
-| PY-006     | Find Position               | ✅         |
-| PY-007     | Find Smallest Number        | ✅         |
-| PY-008     | Calculate Sum               | ✅         |
-| PY-009     | Calculate Average           | ✅         |
-| PY-010     | Second Largest Unique       | ✅         |
-| PY-011     | Count Duplicate Numbers     | ✅         |
-| PY-012     | Remove Duplicate Numbers    | ✅         |
-| PY-013     | Common Elements             | ✅         |
-| **PY-014** | **Find the Missing Number** | 🚀 Current |
+| Challenge  | Topic                    | Status     |
+| ---------- | ------------------------ | ---------- |
+| PY-001     | Reverse Characters       | ✅         |
+| PY-002     | Count Vowels             | ✅         |
+| PY-003     | Palindrome Checker       | ✅         |
+| PY-004     | Find Largest Number      | ✅         |
+| PY-005     | Count Occurrences        | ✅         |
+| PY-006     | Find Position            | ✅         |
+| PY-007     | Find Smallest Number     | ✅         |
+| PY-008     | Calculate Sum            | ✅         |
+| PY-009     | Calculate Average        | ✅         |
+| PY-010     | Second Largest Unique    | ✅         |
+| PY-011     | Count Duplicate Numbers  | ✅         |
+| PY-012     | Remove Duplicate Numbers | ✅         |
+| PY-013     | Common Elements          | ✅         |
+| PY-014     | Find the Missing Number  | ✅         |
+| **PY-015** | **Most Frequent Number** | 🚀 Current |
 
 ---
 
@@ -306,7 +314,7 @@ Learned how to compare two lists and identify common elements while preventing d
 
 # 🔥 Current Streak
 
-**13 Challenges Completed**
+**14 Challenges Completed**
 
 Keep going one challenge at a time.
 
