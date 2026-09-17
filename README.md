@@ -1,169 +1,338 @@
-# 🐍 Python Journey
+# 🐍 Python Journey — 200 Coding Challenges
 
-> **Goal:** Become an exceptional Python developer by solving **200 coding challenges**—one challenge at a time.
+> **Mission:** Build strong Python fundamentals, problem-solving skills, DSA knowledge, clean coding habits, and interview-ready skills — progressing from beginner to advanced.
+
+**Author:** Dasun
+**Start Date:** July 17, 2026
+**Goal:** Become a world-class Software Engineer.
 
 ---
 
-# 📈 Progress
+## 🎯 Journey Goals
 
-## 🥉 Bronze (PY-001 → PY-025)
+- Master Python fundamentals
+- Develop strong problem-solving skills
+- Learn algorithms and data structures
+- Improve logical and algorithmic thinking
+- Write clean, readable, maintainable code
+- Practice debugging and testing
+- Prepare for technical interviews
+- Gradually solve harder real-world problems
+- Build confidence without depending heavily on built-in shortcuts
 
-**Goal:** Learn Python fundamentals and basic problem-solving.
+---
 
-- [x] PY-001
-- [x] PY-002
-- [x] PY-003
-- [x] PY-004
-- [x] PY-005
-- [x] PY-006
-- [x] PY-007
-- [x] PY-008
-- [x] PY-009
-- [x] PY-010
-- [x] PY-011
-- [ ] PY-012
-- [ ] PY-013
+# 📊 Overall Progress
+
+**Completed:** 12 / 200
+**Current Level:** 🥉 Bronze
+**Current Challenge:** **PY-013**
+**Progress:** ████████████░░░░░░░░ 6%
+
+---
+
+# 🥉 Bronze Level — Fundamentals
+
+**PY-001 → PY-025**
+
+Focus:
+
+- Variables
+- Data types
+- Strings
+- Lists
+- Loops
+- Conditions
+- Functions
+- Basic problem solving
+- Manual algorithms
+- Logical thinking
+
+---
+
+## ✅ Completed Challenges
+
+- [x] **PY-001** — Reverse Characters
+- [x] **PY-002** — Count Vowels
+- [x] **PY-003** — Palindrome Checker
+- [x] **PY-004** — Find Largest Number
+- [x] **PY-005** — Count Occurrences
+- [x] **PY-006** — Find Position
+- [x] **PY-007** — Find Smallest Number
+- [x] **PY-008** — Calculate Sum
+- [x] **PY-009** — Calculate Average
+- [x] **PY-010** — Find Second Largest Unique Number
+- [x] **PY-011** — Count Duplicate Numbers
+- [x] **PY-012** — Remove Duplicate Numbers
+
+---
+
+## 🚀 Current Challenge
+
+- [ ] **PY-013** — Find Common Elements Between Two Lists
+
+---
+
+## ⏳ Upcoming Bronze Challenges
+
 - [ ] PY-014
-- ...
+- [ ] PY-015
+- [ ] PY-016
+- [ ] PY-017
+- [ ] PY-018
+- [ ] PY-019
+- [ ] PY-020
+- [ ] PY-021
+- [ ] PY-022
+- [ ] PY-023
+- [ ] PY-024
 - [ ] PY-025
 
 ---
 
-## 🥈 Silver (PY-026 → PY-075)
+# 🥈 Silver Level — Intermediate
 
-**Goal:** Strengthen logic and intermediate programming skills.
+**PY-026 → PY-075**
 
-- [ ] PY-026
-- [ ] PY-027
-- [ ] PY-028
-- ...
-- [ ] PY-075
+Focus:
 
----
-
-## 🥇 Gold (PY-076 → PY-150)
-
-**Goal:** Master data structures, algorithms, and efficient coding techniques.
-
-- [ ] PY-076
-- [ ] PY-077
-- [ ] PY-078
-- ...
-- [ ] PY-150
-
----
-
-## 💎 Diamond (PY-151 → PY-200)
-
-**Goal:** Solve advanced software engineering and interview-level challenges.
-
-- [ ] PY-151
-- [ ] PY-152
-- [ ] PY-153
-- ...
-- [ ] PY-200
-
----
-
-# 📊 Current Status
-
-| Item                 | Status       |
-| -------------------- | ------------ |
-| 🎯 Current Challenge | **PY-012**   |
-| 🏅 Current Level     | 🥉 Bronze    |
-| ✅ Completed         | **11 / 200** |
-| 🔥 Current Streak    | **11 Days**  |
-
----
-
-## 💪 Strengths
-
-- String indexing
-- `for` loops
-- `range()`
-- Writing reusable functions
-- Returning values from functions
-- String iteration
-- Membership operator (`in`)
-- Using `.lower()` effectively
-- Counting with variables
-- Code reuse (DRY principle)
-- Function decomposition
-- Case-insensitive comparisons
-- List traversal
-- List indexes
-- Comparison algorithms
-- Accumulator pattern
-- Finding maximum values
-- Finding minimum values
-- Counting occurrences
-- Finding the first matching item
-- Calculating totals
-- Calculating averages
-- Combining counting and accumulation
-- Tracking multiple values during iteration
-- Finding the second largest value
-- Handling duplicate values
-- Handling negative numbers
-- Using `float("-inf")`
-- Managing algorithm state
+- Advanced list manipulation
 - Nested loops
-- Comparing elements by index
-- Using `break`
-- Preventing duplicate counting
+- String algorithms
+- Searching
+- Sorting algorithms
+- Dictionaries
+- Tuples
+- Sets
+- Functions
+- Recursion basics
+- Algorithm efficiency
+- More complex problem solving
 
 ---
 
-## 📚 Areas to Improve
+# 🥇 Gold Level — Advanced
 
-- Trace loop execution mentally
-- Edge case handling
-- String iteration
-- Membership operator (`in`)
-- Using `.lower()` effectively
-- Counting with variables
-- Returning booleans for decision functions
-- Removing debug code before committing
-- Thinking about function responsibilities
-- Handling empty collections
-- Input validation
-- Thinking about edge cases
-- Knowing when to stop a loop early
-- Choosing clear variable names
-- Avoiding shadowing Python built-in names
-- Building algorithms without relying on built-in functions
-- Writing simpler conditional structures
-- Carefully tracing multiple variables through a loop
-- Improving nested-loop efficiency
-- Understanding time complexity
-- Reducing unnecessary iterations
+**PY-076 → PY-150**
+
+Focus:
+
+- Advanced algorithms
+- Data structures
+- Recursion
+- Searching algorithms
+- Sorting algorithms
+- Time complexity
+- Space complexity
+- Advanced Python concepts
+- Problem decomposition
+- Interview-style problems
 
 ---
 
-# 📝 Rules
+# 💎 Diamond Level — Expert
 
-- Solve **one challenge every day**.
-- Read the problem carefully.
-- Think before writing code.
-- Test your solution.
-- Refactor if necessary.
-- Don't use AI hints unless you've genuinely tried.
+**PY-151 → PY-200**
 
----
+Focus:
 
-# 🎯 Mission
-
-By completing all **200 challenges**, I aim to:
-
-- Build strong Python fundamentals.
-- Develop excellent problem-solving skills.
-- Master algorithms and data structures.
-- Write clean and maintainable code.
-- Prepare for software engineering interviews.
-- Become a world-class software engineer.
+- Advanced DSA
+- Complex algorithms
+- Optimization
+- Advanced problem solving
+- Real-world programming problems
+- Interview-level challenges
+- System-oriented thinking
+- Writing efficient and maintainable Python
+- Combining multiple concepts
 
 ---
 
-**Start Date:** July 17, 2026
+# 🧠 Learning Rules
 
-**Current Goal:** Finish 🥉 Bronze (PY-001 → PY-025)
+For every challenge:
+
+1. **Read the problem carefully**
+2. Understand the requirements
+3. Think about the algorithm before coding
+4. Try solving it independently
+5. Write the code
+6. Test with multiple inputs
+7. Test edge cases
+8. Debug problems yourself
+9. Refactor the solution
+10. Review what was learned
+
+### 🚫 Avoid shortcuts
+
+During the early challenges, avoid solving problems using convenient built-ins when the challenge specifically asks you to practice the underlying logic.
+
+Examples:
+
+```python
+max()
+min()
+sum()
+sort()
+sorted()
+set()
+count()
+```
+
+When a challenge prohibits these, solve the problem manually.
+
+The goal isn't just to get the answer.
+
+> **The goal is to understand how the solution works.**
+
+---
+
+# 📚 Skills Learned So Far
+
+### Python Fundamentals
+
+- Variables
+- Functions
+- `if / elif / else`
+- `for` loops
+- `return`
+- Lists
+- List indexing
+- List membership
+- `append()`
+- `break`
+- `range()`
+
+### Problem-Solving Patterns
+
+- Accumulator pattern
+- Searching through lists
+- Finding maximum/minimum values
+- Tracking multiple values
+- Handling negative numbers
+- Handling duplicate values
+- Counting occurrences
+- Preserving order
+- Building a new list
+- Membership checking
+- Nested-loop comparison
+- Using state variables
+
+### Important Concepts
+
+**PY-010**
+
+Learned how to maintain state when finding the second-largest unique number.
+
+**PY-011**
+
+Learned how to detect duplicates without counting the same duplicated value multiple times.
+
+**PY-012**
+
+Learned how to build a new list while filtering duplicate values and preserving the original order.
+
+---
+
+# 💪 Current Strengths
+
+- Basic Python syntax
+- Functions
+- Loops
+- Conditional logic
+- List manipulation
+- Manual searching
+- Handling edge cases
+- Duplicate detection
+- Building algorithms step-by-step
+- Debugging logical mistakes
+- Thinking about state and conditions
+
+---
+
+# 🔧 Areas to Improve
+
+- Algorithm efficiency
+- Time complexity
+- Space complexity
+- More advanced data structures
+- Recursion
+- Writing more optimized solutions
+- Breaking complex problems into smaller steps
+- Developing faster algorithmic thinking
+
+---
+
+# 📈 Progress Tracker
+
+| Challenge  | Topic                    | Status     |
+| ---------- | ------------------------ | ---------- |
+| PY-001     | Reverse Characters       | ✅         |
+| PY-002     | Count Vowels             | ✅         |
+| PY-003     | Palindrome Checker       | ✅         |
+| PY-004     | Find Largest Number      | ✅         |
+| PY-005     | Count Occurrences        | ✅         |
+| PY-006     | Find Position            | ✅         |
+| PY-007     | Find Smallest Number     | ✅         |
+| PY-008     | Calculate Sum            | ✅         |
+| PY-009     | Calculate Average        | ✅         |
+| PY-010     | Second Largest Unique    | ✅         |
+| PY-011     | Count Duplicate Numbers  | ✅         |
+| PY-012     | Remove Duplicate Numbers | ✅         |
+| **PY-013** | **Common Elements**      | 🚀 Current |
+
+---
+
+# 🏆 Milestones
+
+- [x] Complete first Python challenge
+- [x] Complete 5 challenges
+- [x] Complete 10 challenges
+- [ ] Complete 25 Bronze challenges
+- [ ] Complete 50 challenges
+- [ ] Complete 75 challenges
+- [ ] Complete 100 challenges
+- [ ] Complete 150 challenges
+- [ ] Complete all 200 challenges 🎯
+
+---
+
+# 🔥 Current Streak
+
+**12 Challenges Completed**
+
+Keep going one challenge at a time.
+
+> **Consistency > Speed**
+
+---
+
+# 🎯 Final Goal
+
+After completing all 200 challenges, the goal is to be able to:
+
+- Understand problems clearly
+- Design algorithms before coding
+- Write Python confidently
+- Debug independently
+- Choose appropriate data structures
+- Understand algorithm efficiency
+- Solve technical interview problems
+- Write clean and maintainable code
+- Approach unfamiliar programming problems logically
+
+### 🚀 Long-Term Direction
+
+**Software Engineer building secure, AI-powered applications**
+
+Python Journey is one part of the larger journey toward becoming a strong software engineer with skills across:
+
+**Software Engineering + Security + AI Engineering**
+
+---
+
+## 🐍 Keep Coding
+
+**Challenge → Think → Code → Test → Debug → Refactor → Learn**
+
+> _Don't just learn Python. Learn how to think like a programmer._
